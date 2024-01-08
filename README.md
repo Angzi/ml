@@ -10,6 +10,7 @@
     * AP - Average Precision
     * mAP - mean Average Precision
     * [IoUTP（Jaccard Index）\FP\FN](https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segmentation/)
+        * https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/   
         * True Positive (TP) — Correct detection made by the model.
         * False Positive (FP) — Incorrect detection made by the detector.
         * False Negative (FN) — A Ground-truth missed (not detected) by the object detector.
