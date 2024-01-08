@@ -23,4 +23,5 @@
         * TN表示检测器没有作出判定，而这一区域也确实不存在目标（是背景）
      
 * Paper
-    * [YoloV1](https://paperswithcode.com/method/yolov1#:~:text=YOLOv1%20is%20a%20single%2Dstage,boxes%20and%20associated%20class%20probabilities.) 
+    * [YoloV1](https://paperswithcode.com/method/yolov1#:~:text=YOLOv1%20is%20a%20single%2Dstage,boxes%20and%20associated%20class%20probabilities.)
+    * https://learnopencv.com/yolo-nas/
