@@ -6,3 +6,6 @@
         *  此外，还有很多很不错的[与数学有关的直观可视化内容](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Interactive Explanation of Backprop](https://xnought.github.io/backprop-explainer/)
 * [TensorFlow Playground](https://playground.tensorflow.org/)
+* 概念
+    * AP - Average Precision
+    * mAP - mean Average Precision 
