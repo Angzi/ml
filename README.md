@@ -8,4 +8,9 @@
 * [TensorFlow Playground](https://playground.tensorflow.org/)
 * 概念
     * AP - Average Precision
-    * mAP - mean Average Precision 
+    * mAP - mean Average Precision
+    * [TP\FP\FN](https://learnopencv.com/intersection-over-union-iou-in-object-detection-and-segmentation/)
+        * True Positive (TP) — Correct detection made by the model.
+        * False Positive (FP) — Incorrect detection made by the detector.
+        * False Negative (FN) — A Ground-truth missed (not detected) by the object detector.
+        * True Negative (TN) —This is the background region correctly not detected by the model. This metric is not used in object detection because such regions are not explicitly annotated when preparing the annotations.
